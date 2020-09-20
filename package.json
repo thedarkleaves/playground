@@ -1,7 +1,7 @@
 {
     "name": "com.panda.playground",
     "displayName": "playground",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "A sample Apache Cordova application that responds to the deviceready event.",
     "main": "index.js",
     "scripts": {
@@ -10,6 +10,6 @@
     "keywords": [
         "ecosystem:cordova"
     ],
-    "author": "Apache Cordova Team",
+    "author": "Thedar Kleaves",
     "license": "Apache-2.0"
 }
